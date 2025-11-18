@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">Hi there 👋, I'm Aleena<br><br>🎓 Computer Science Undergraduate | 💻 Developer & Tech Enthusiast<br><br>🌱 Currently exploring AI, Machine Learning, and App Development<br><br>🚀 Interested in creating innovative projects that solve real-world problems<br><br>🔐 Passionate about Software Development, and Modern Tech<br><br>🌍 Always eager to learn, build, and share knowledge</p>
+<p align="left">Hi there 👋, I'm Aleena<br><br>🎓 Computer Science Undergraduate | 💻 Tech Enthusiast<br><br>🌱 Currently exploring AI, Machine Learning, and App Development<br><br>🚀 Interested in creating innovative projects that solve real-world problems<br><br>🌍 Always eager to learn, build, and share knowledge</p>
 
 ###
 
@@ -17,19 +17,15 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
