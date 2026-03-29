@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-<img align="right" height="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="190" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ```yaml
 name: Aleena Iftikhar
@@ -87,17 +87,6 @@ mindset: Always eager to learn, build, and share knowledge 🌍
 | 🌐 Django Web Framework | 🔄 In Progress |
 
 </div>
-
----
-
-### 🚀 Goals
-
-```
-🎯 Build innovative projects that solve real-world problems
-🤝 Collaborate with the open-source community
-📚 Never stop learning
-🌍 Share knowledge and grow together
-```
 
 ---
 
